@@ -36,8 +36,12 @@ const Portfolio = () => {
         },
     ];
 
+    const smallScreenPadding = {
+        paddingTop: "8rem", // Adjust this value to your desired padding
+      };
+
   return (
-    <div name="portfolio" className='bg-gradient-to-b from-black to-gray-700 w-full text-white md:h-screen'>
+    <div name="portfolio" className='bg-gradient-to-b from-black to-gray-700 w-full text-white md:h-screen' style={window.innerWidth <= 768 ? smallScreenPadding : null}>
         <div className='max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full'>
             <div className='pb-8'>
                 <p className='text-4xl font-bold inline border-b-4 border-gray-500'>
