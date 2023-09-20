@@ -15,14 +15,11 @@ const About = () => {
             </div>
 
             <p className='text-xl'>
-            I have almost 2 years of experince in working as a Frontend Delveloper. Currently, I  like to work on web application using technologies like React, Tailwind, NextJs and Strapi. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+                 I’ve been working as a Front-end Web developer for around 2 years. I have experience and skills in JavaScript, ReactJs, Redux, HTML, CSS, Strapi, NextJs and Tailwind. I’ve worked on large development projects that have sharpened my technical skills, improved my communication and made me understand what it takes to meet tight deadlines with excellence.
             </p>
 
             <br />
 
-            <p className='text-xl'>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae, cupiditate. Sint magni ad ratione distinctio quaerat doloremque enim magnam reprehenderit maxime? Quaerat autem sint possimus doloremque aliquam accusantium, asperiores neque! Dolor quasi reprehenderit obcaecati ipsa maiores? Vero, velit voluptates beatae quis assumenda voluptas ipsum quasi ipsam debitis corrupti facere? Saepe!
-            </p>
 
         </div>
     </div>
